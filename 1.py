@@ -7,3 +7,6 @@ elif not x==3 or x<5 and y >10:
     print("You tied")
 else:
     print("You lost")
+
+
+#You Tied
