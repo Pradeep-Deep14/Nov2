@@ -12,3 +12,5 @@ obj.instance_method()
 print(obj.my_var)
 
 #30
+#So, the code demonstrates the use of instance variables and methods within a class. It creates an instance of the class,
+# modifies the instance variable using a method, and then prints the updated value of the variable
